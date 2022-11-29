@@ -1,4 +1,7 @@
-*
+*.md
+*.cmd
+*.yaml
+Tilt*
 !target/*-runner
 !target/*-runner.jar
 !target/lib/*
